@@ -57,12 +57,12 @@ button:active{
 }
 @media (max-width: 500px) {
     body{
-        max-width: 300px;
+        max-width: 310px;
         margin: 0 auto;
         height: 100vh;
     }
     #keys{
-        height: 75vh;
+        height: 65vh;
         gap: 7px;
     }
     button{
